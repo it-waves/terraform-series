@@ -64,7 +64,7 @@ sudo rm -rf /usr/local/aws-cli
 -If your terraform server is in the cloud, then create a role and attach the role to your server.
 
 
-- Generate Security Credential s using AWS Management Console
+- Generate Security Credentials using AWS Management Console
   - Go to Services -> IAM -> Users -> "Your-Admin-User" -> Security Credentials -> Create Access Key
 - Configure AWS credentials using SSH Terminal on your local desktop
 
